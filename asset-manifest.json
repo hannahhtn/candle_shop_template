@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/candle_shop_template/static/css/main.660b1d80.css",
+    "main.js": "/candle_shop_template/static/js/main.db0cf421.js",
+    "static/js/787.5f1715b5.chunk.js": "/candle_shop_template/static/js/787.5f1715b5.chunk.js",
+    "static/media/hero_photo.jpg": "/candle_shop_template/static/media/hero_photo.2ecc9803df01c2c7b157.jpg",
+    "static/media/hero_photo_sm.jpg": "/candle_shop_template/static/media/hero_photo_sm.7f8962b5256a0695ddc2.jpg",
+    "index.html": "/candle_shop_template/index.html",
+    "main.660b1d80.css.map": "/candle_shop_template/static/css/main.660b1d80.css.map",
+    "main.db0cf421.js.map": "/candle_shop_template/static/js/main.db0cf421.js.map",
+    "787.5f1715b5.chunk.js.map": "/candle_shop_template/static/js/787.5f1715b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.660b1d80.css",
+    "static/js/main.db0cf421.js"
+  ]
+}
