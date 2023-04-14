@@ -10,13 +10,13 @@ const Main = () => {
 				</Button>
 			</div>
 			<div className="section">
-				<img src="../../candle-1.jpg" alt="candles"></img>
+				<img src="../../public/candle-1.jpg" alt="candles"></img>
 				<h1>Candles for your living space</h1>
 			</div>
 
 			<div className="section">
 				<h1>Choose your favorite scents</h1>
-				<img src="../../candle-2.jpg" alt="candles"></img>
+				<img src="../../public/candle-2.jpg" alt="candles"></img>
 			</div>
 		</div>
 	);
