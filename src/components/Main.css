@@ -1,0 +1,62 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.Shop {
+	background-image: url("../../public/hero_photo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+
+.shop-btn {
+	position: relative;
+	top: 80%;
+	left: 45vw;
+	backdrop-filter: brightness(0.6);
+}
+
+.section {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 200px;
+	column-gap: 40px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.section img {
+	height: 500px;
+}
+
+.section h1 {
+	text-align: left;
+}
+
+@media only screen and (max-width: 600px) {
+	.Shop {
+		background-image: url("../../public/hero_photo_sm.jpg");
+	}
+
+	.section {
+		flex-direction: column;
+		row-gap: 20px;
+		margin-top: 150px;
+	}
+
+	.section img {
+		height: 400px;
+	}
+
+	.section h1 {
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width: 1024px){
+    .section {
+        justify-content: space-around;
+    }
+}
